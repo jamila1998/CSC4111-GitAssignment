@@ -1,2 +1,2 @@
 **CSC4111-GitAssignment**
-Jamila Popi, gi6325@wayne.edu
+*Jamila Popi, gi6325@wayne.edu*
