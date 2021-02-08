@@ -1,7 +1,7 @@
+<<<<<<< HEAD
 # Github and git conflict
-
+=======
 # GitHub and git
-
-**CSC4111-GitAssignment**
-
+>>>>>>> development
+# CSC4111-GitAssignment
 Jamila Popi, gi6325@wayne.edu
