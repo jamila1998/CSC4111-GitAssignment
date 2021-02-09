@@ -1,5 +1,5 @@
 // Simple C++ program to display "Hello World" 
-//Author: Jamila Popi <gi6325@wayne.edu>
+//Author: Amiangshu Bosu <amiangshu.bosu@wayne.edu>
   
 // Header file for input output functions 
 #include<iostream>  
@@ -11,7 +11,7 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Testing git merge!"; 
+    cout<<"Hello World!"; 
       
     return 0; 
 } 
